@@ -5,6 +5,7 @@ import threading
 import json
 import os
 from datetime import datetime
+from calendar_log import add_calendar_log, CalendarMatrix
 import winsound  # gunakan di Windows, bisa diganti playsound di OS lain
 
 # ===============================
@@ -178,6 +179,10 @@ class HabitTracker(ttk.Frame):
         self.reset_button = ttk.Button(self, text="Reset Day", command=self.reset_habits)
         self.reset_button.pack(side="left", padx=10, pady=10)
 
+        self.calendar_button = ttk.Button(self, text="Calendar Log", command=self.open_calendar)
+        self.calendar_button.pack(side="left", padx=10, pady=10)
+
+
     def refresh_list(self):
         self.habit_listbox.delete(0, "end")
         for name, data in self.habits.items():
@@ -196,11 +201,14 @@ class HabitTracker(ttk.Frame):
         if not selected:
             messagebox.showwarning("Warning", "Please select a habit first!")
             return
+
         habit_name = list(self.habits.keys())[selected[0]]
         self.habits[habit_name]["done_today"] = True
         self.habits[habit_name]["count"] += 1
         save_habits(self.habits)
+        add_calendar_log(habit_name)
         self.refresh_list()
+
 
     def reset_habits(self):
         for h in self.habits:
@@ -215,6 +223,10 @@ class HabitTracker(ttk.Frame):
             self.habits["Fokus Belajar"]["done_today"] = True
             save_habits(self.habits)
             self.refresh_list()
+    
+    def open_calendar(self):
+        habit_names = list(self.habits.keys())
+        CalendarMatrix(self, habit_names)
 
 
 # ===============================

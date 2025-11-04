@@ -1,6 +1,22 @@
 {
     "asd": {
+        "done_today": true,
+        "count": 4
+    },
+    "berenang": {
+        "done_today": true,
+        "count": 3
+    },
+    "menyiram tanaman": {
+        "done_today": true,
+        "count": 3
+    },
+    "menyapu": {
         "done_today": false,
+        "count": 0
+    },
+    "mencuci baju": {
+        "done_today": true,
         "count": 1
     }
 }
