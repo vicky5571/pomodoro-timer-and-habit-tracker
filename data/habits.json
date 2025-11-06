@@ -1,6 +1,10 @@
 {
     "asd": {
         "done_today": false,
+        "count": 2
+    },
+    "Olahraga 16 menit": {
+        "done_today": false,
         "count": 1
     }
 }
