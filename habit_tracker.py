@@ -3,6 +3,7 @@ from tkinter import ttk, messagebox, simpledialog
 from utils import load_habits, save_habits
 from delete_for_habit import delete
 from edit_habit_tracker import edit
+from calender_log import add_calendar_log, CalendarMatrix
 
 class HabitTracker(ttk.Frame):
     def __init__(self, parent):
@@ -36,6 +37,9 @@ class HabitTracker(ttk.Frame):
         self.delete_button = ttk.Button(btn_frame, text="Delete Habit", command=self.delete_habit)
         self.delete_button.grid(row=0, column=4, padx=5)
 
+        self.calendar_button = ttk.Button(self, text="Calendar Log", command=self.open_calendar)
+        self.calendar_button.pack(side="left", padx=10, pady=10)
+
     def refresh_list(self):
         self.habit_listbox.delete(0, "end")
         for name, data in self.habits.items():
@@ -61,10 +65,12 @@ class HabitTracker(ttk.Frame):
         if not selected:
             messagebox.showwarning("Warning", "Please select a habit first!")
             return
+
         habit_name = list(self.habits.keys())[selected[0]]
         self.habits[habit_name]["done_today"] = True
         self.habits[habit_name]["count"] += 1
         save_habits(self.habits)
+        add_calendar_log(habit_name)
         self.refresh_list()
 
     def reset_habits(self):
@@ -82,3 +88,7 @@ class HabitTracker(ttk.Frame):
             self.habits["Fokus Belajar"]["done_today"] = True
             save_habits(self.habits)
             self.refresh_list()
+
+    def open_calendar(self):
+        habit_names = list(self.habits.keys())
+        CalendarMatrix(self, habit_names)

@@ -4,15 +4,16 @@ from datetime import datetime
 import tkinter as tk
 from set_timer import timer
 from tkinter import ttk, messagebox, simpledialog
-
+from stats_log import add_session
 from config import POMODORO_LOG, WORK_MINUTES, BREAK_MINUTES
 from utils import play_sound
 
 class PomodoroTimer(ttk.Frame):
-    def __init__(self, parent, habit_tracker):
+    def __init__(self, parent, habit_tracker, stats_tab):
         super().__init__(parent)
         self.parent = parent
         self.habit_tracker = habit_tracker
+        self.stats_tab = stats_tab 
 
         self.work_minutes = WORK_MINUTES
         self.break_minutes = BREAK_MINUTES
@@ -62,6 +63,7 @@ class PomodoroTimer(ttk.Frame):
 
     def start_timer(self):
         if not self.is_running:
+            self.original_time = self.time_left   
             self.is_running = True
             self.timer_thread = threading.Thread(target=self.run_timer, daemon=True)
             self.timer_thread.start()
@@ -94,21 +96,30 @@ class PomodoroTimer(ttk.Frame):
         self.session_count += 1
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
+        # ✅ Hitung menit kerja sebenarnya lalu log
+        if self.is_work_session:
+            minutes_done = (self.original_time - self.time_left) // 60
+            if minutes_done <= 0:
+                minutes_done = 1
+            add_session(minutes_done)
+            self.stats_tab.refresh()
+
+        # Log ke file
         with open(POMODORO_LOG, "a") as f:
             f.write(f"[{now}] Session {self.session_count}: {'Work' if self.is_work_session else 'Break'} done\n")
 
+        # Update GUI
         self.log_box.config(state="normal")
         self.log_box.insert("end", f"[{now}] Session {self.session_count} finished ({'Work' if self.is_work_session else 'Break'})\n")
         self.log_box.config(state="disabled")
         self.log_box.see("end")
 
-        if self.is_work_session:
-            self.habit_tracker.increment_focus_habit()
-
+        # toggle mode
         self.is_work_session = not self.is_work_session
         self.time_left = self.break_minutes * 60 if not self.is_work_session else self.work_minutes * 60
         self.status_label.config(text=f"Status: {'Break Time' if not self.is_work_session else 'Work Time'}")
         self.update_display()
 
+  
     def update_display(self):
         self.time_display.config(text=self.format_time(self.time_left))
