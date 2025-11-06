@@ -4,6 +4,7 @@ from utils import load_habits, save_habits
 from delete_for_habit import delete
 from edit_habit_tracker import edit
 from calender_log import add_calendar_log, CalendarMatrix
+from exit_button import add_exit_button
 
 class HabitTracker(ttk.Frame):
     def __init__(self, parent):
@@ -39,6 +40,9 @@ class HabitTracker(ttk.Frame):
 
         self.calendar_button = ttk.Button(self, text="Calendar Log", command=self.open_calendar)
         self.calendar_button.pack(side="left", padx=10, pady=10)
+
+        exit_frame = add_exit_button(self)
+        exit_frame.pack(pady=10)
 
     def refresh_list(self):
         self.habit_listbox.delete(0, "end")
