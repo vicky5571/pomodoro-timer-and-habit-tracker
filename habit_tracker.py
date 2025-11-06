@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
 from utils import load_habits, save_habits
 from delete_for_habit import delete
-from edit_for_habit import edit
+from edit_habit_tracker import edit
 
 class HabitTracker(ttk.Frame):
     def __init__(self, parent):
