@@ -11,3 +11,5 @@ def delete(self):
             del self.habits[habit_name]
             save_habits(self.habits)
             self.refresh_list()
+
+#ini komentar minan
