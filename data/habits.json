@@ -1,14 +1,22 @@
 {
     "asd": {
+<<<<<<< HEAD
         "done_today": false,
         "count": 2
+=======
+        "done_today": true,
+        "count": 3
+>>>>>>> 1a1af522f34f22ad281bc03a0d90590afe34d857
     },
     "Olahraga 16 menit": {
         "done_today": false,
         "count": 1
+<<<<<<< HEAD
     },
     "belajar python": {
         "done_today": false,
         "count": 1
+=======
+>>>>>>> 1a1af522f34f22ad281bc03a0d90590afe34d857
     }
 }
