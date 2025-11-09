@@ -1,10 +1,38 @@
 {
     "asd": {
+<<<<<<< HEAD
         "done_today": true,
         "count": 3
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        "done_today": false,
+        "count": 2
+=======
+        "done_today": true,
+        "count": 3
+>>>>>>> 1a1af522f34f22ad281bc03a0d90590afe34d857
+=======
+        "done_today": true,
+        "count": 3
+>>>>>>> 1a1af522f34f22ad281bc03a0d90590afe34d857
+>>>>>>> df203497d9e3fc5c43d3bb0e2d747b78d5e622ed
     },
     "Olahraga 16 menit": {
         "done_today": false,
         "count": 1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    },
+    "belajar python": {
+        "done_today": false,
+        "count": 1
+=======
+>>>>>>> 1a1af522f34f22ad281bc03a0d90590afe34d857
+=======
+>>>>>>> 1a1af522f34f22ad281bc03a0d90590afe34d857
+>>>>>>> df203497d9e3fc5c43d3bb0e2d747b78d5e622ed
     }
 }
