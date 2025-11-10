@@ -1,0 +1,3180 @@
+('D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+ 'Python\\Pomodoro Timer and Habit Tracker\\build\\main\\PYZ-00.pyz',
+ [('PIL',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils._win32',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\_win32.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.tempfile',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\tempfile.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\calendar.py',
+   'PYMODULE'),
+  ('calender_log',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\calender_log.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('config',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\config.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('contourpy',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\__init__.py',
+   'PYMODULE'),
+  ('contourpy._version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\_version.py',
+   'PYMODULE'),
+  ('contourpy.array',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\array.py',
+   'PYMODULE'),
+  ('contourpy.chunk',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\chunk.py',
+   'PYMODULE'),
+  ('contourpy.convert',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\convert.py',
+   'PYMODULE'),
+  ('contourpy.dechunk',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\dechunk.py',
+   'PYMODULE'),
+  ('contourpy.enum_util',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\enum_util.py',
+   'PYMODULE'),
+  ('contourpy.typecheck',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\typecheck.py',
+   'PYMODULE'),
+  ('contourpy.types',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\contourpy\\types.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('cycler',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\cycler\\__init__.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\decimal.py',
+   'PYMODULE'),
+  ('delete_for_habit',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\delete_for_habit.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\doctest.py',
+   'PYMODULE'),
+  ('edit_habit_tracker',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\edit_habit_tracker.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\gzip.py',
+   'PYMODULE'),
+  ('habit_tracker',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\habit_tracker.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_adapters.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\inspect.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('kiwisolver',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\kiwisolver\\__init__.py',
+   'PYMODULE'),
+  ('kiwisolver.exceptions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\kiwisolver\\exceptions.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\lzma.py',
+   'PYMODULE'),
+  ('matplotlib',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._afm',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_afm.py',
+   'PYMODULE'),
+  ('matplotlib._api',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_api\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._api.deprecation',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_api\\deprecation.py',
+   'PYMODULE'),
+  ('matplotlib._blocking_input',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_bivar',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_cm_bivar.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib._cm_multivar',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_cm_multivar.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_color_data.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib._docstring',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_docstring.py',
+   'PYMODULE'),
+  ('matplotlib._enums',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_enums.py',
+   'PYMODULE'),
+  ('matplotlib._fontconfig_pattern',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_fontconfig_pattern.py',
+   'PYMODULE'),
+  ('matplotlib._layoutgrid',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_layoutgrid.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_mathtext_data.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._text_helpers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_text_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._tight_bbox',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_tight_bbox.py',
+   'PYMODULE'),
+  ('matplotlib._tight_layout',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\_version.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\artist.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\axes\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\axes\\_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\axes\\_base.py',
+   'PYMODULE'),
+  ('matplotlib.axes._secondary_axes',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\axes\\_secondary_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\axis.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backend_tools.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backends\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backends\\_backend_tk.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backends\\backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backends\\backend_webagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg_core',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py',
+   'PYMODULE'),
+  ('matplotlib.backends.registry',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\backends\\registry.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\bezier.py',
+   'PYMODULE'),
+  ('matplotlib.category',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\category.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\cbook.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\cm.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\collections.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\colorbar.py',
+   'PYMODULE'),
+  ('matplotlib.colorizer',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\colorizer.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\colors.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\container.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\contour.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\dates.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\dviread.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\figure.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\font_manager.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\gridspec.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\hatch.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\image.py',
+   'PYMODULE'),
+  ('matplotlib.inset',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\inset.py',
+   'PYMODULE'),
+  ('matplotlib.layout_engine',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\layout_engine.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\legend.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\lines.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\markers.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\mathtext.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\mlab.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\patches.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\path.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\projections\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\projections\\geo.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\projections\\polar.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\pyplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\quiver.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\rcsetup.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\scale.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\spines.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\style\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\style\\core.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\table.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\texmanager.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\text.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\textpath.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\ticker.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\transforms.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triangulation',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\_triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tricontour',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\_tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trifinder',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\_trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triinterpolate',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\_triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tripcolor',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\_tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triplot',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\_triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trirefine',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\_trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tritools',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\tri\\_tritools.py',
+   'PYMODULE'),
+  ('matplotlib.typing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\typing.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\units.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\matplotlib\\widgets.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('mingguan_stats',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\mingguan_stats.py',
+   'PYMODULE'),
+  ('mpl_toolkits', '-', 'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axes3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\proj3d.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('music_player',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\music_player.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.tests', '-', 'PYMODULE'),
+  ('numpy._core.tests._natype',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\tests\\_natype.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.actions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.common',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.core',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.diagram',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.exceptions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.helpers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.results',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.testing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.unicode',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.util',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pomodoro_timer',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\pomodoro_timer.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygame',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.fastevent',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\fastevent.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pygame\\version.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.actions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pyparsing.results',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pyparsing.testing',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\selectors.py',
+   'PYMODULE'),
+  ('set_timer',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\set_timer.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'd:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit '
+   'Tracker\\.venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\statistics.py',
+   'PYMODULE'),
+  ('stats_log',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\stats_log.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('utils',
+   'D:\\iCloud Drive\\iCloudDrive\\Kuliah\\Semester 5\\Pemrograman '
+   'Python\\Pomodoro Timer and Habit Tracker\\utils.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\zipimport.py',
+   'PYMODULE')])
