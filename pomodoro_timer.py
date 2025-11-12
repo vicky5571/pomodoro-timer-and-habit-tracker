@@ -7,6 +7,8 @@ from tkinter import ttk, messagebox, simpledialog
 from stats_log import add_session
 from config import POMODORO_LOG, WORK_MINUTES, BREAK_MINUTES
 from utils import play_sound
+from exit_button import add_exit_button
+
 
 class PomodoroTimer(ttk.Frame):
     def __init__(self, parent, habit_tracker, stats_tab):
@@ -55,6 +57,9 @@ class PomodoroTimer(ttk.Frame):
 
         self.log_box = tk.Text(self, width=45, height=8, state="disabled")
         self.log_box.pack()
+
+        exit_frame = add_exit_button(self)
+        exit_frame.pack(pady=10)
 
     def format_time(self, seconds):
         minutes = seconds // 60
