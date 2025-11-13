@@ -20,27 +20,31 @@ class HabitTracker(ttk.Frame):
         self.habit_listbox.pack(pady=5)
         self.refresh_list()
 
+        # Frame untuk semua tombol aksi (Add, Edit, Done, Reset, Delete, Calendar)
         btn_frame = ttk.Frame(self)
         btn_frame.pack(pady=10)
 
+        # Baris 1: Add, Edit, Done
         self.add_button = ttk.Button(btn_frame, text="Add Habit", command=self.add_habit)
-        self.add_button.grid(row=0, column=0, padx=5)
-
+        self.add_button.grid(row=0, column=0, padx=5, pady=3) # Menambah pady
+        
         self.edit_button = ttk.Button(btn_frame, text="Edit Habit", command=self.edit_habit)
-        self.edit_button.grid(row=0, column=1, padx=5)
+        self.edit_button.grid(row=0, column=1, padx=5, pady=3)
 
         self.done_button = ttk.Button(btn_frame, text="Mark Done", command=self.mark_done)
-        self.done_button.grid(row=0, column=2, padx=5)
+        self.done_button.grid(row=0, column=2, padx=5, pady=3)
 
+        # Baris 2: Reset, Delete, Calendar Log
         self.reset_button = ttk.Button(btn_frame, text="Reset Day", command=self.reset_habits)
-        self.reset_button.grid(row=0, column=3, padx=5)
+        self.reset_button.grid(row=1, column=0, padx=5, pady=3)
 
         self.delete_button = ttk.Button(btn_frame, text="Delete Habit", command=self.delete_habit)
-        self.delete_button.grid(row=0, column=4, padx=5)
+        self.delete_button.grid(row=1, column=1, padx=5, pady=3)
 
-        self.calendar_button = ttk.Button(self, text="Calendar Log", command=self.open_calendar)
-        self.calendar_button.pack(side="left", padx=10, pady=10)
+        self.calendar_button = ttk.Button(btn_frame, text="Calendar Log", command=self.open_calendar)
+        self.calendar_button.grid(row=1, column=2, padx=5, pady=3)
 
+        # Frame terpisah untuk tombol keluar
         exit_frame = add_exit_button(self)
         exit_frame.pack(pady=10)
 
